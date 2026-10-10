@@ -67,14 +67,14 @@ Ces expériences m’ont permis de relier le développement technique aux besoin
 
 ## Mes projets techniques publics
 
-| Projet | Ce qu’il permet d’explorer |
-| --- | --- |
-| [**Alzheimer MRI Study**](https://github.com/malikafofana/alzheimer-mri-study) | Travail académique réalisé avec **Klara Mladenovic** : CNN, ResNet50, Grad-CAM, DCGAN et analyse critique des résultats |
-| [**Telco Signal**](https://github.com/malikafofana/telco-signal) | Prototype local : ingestion d’événements, qualité des données, entrepôt SQL, features temporelles, comparaison de modèles et API de scoring |
-| [**Evidence Search**](https://github.com/malikafofana/evidence-search) | Prototype de recherche documentaire : BM25, TF-IDF, fusion de rangs, citations exactes et évaluation du retrieval |
-| [**Agentic Data Lab**](https://github.com/malikafofana/projet_agentic) | Prototype MCP pour l’analyse de CSV avec SQLite, outils SQL et historique de session ; module auxiliaire encore manquant |
-| [**Time Series Lab**](https://github.com/malikafofana/timeseriesentrainement1) | Exercices du cours de Jesus Lopez / LinkedIn Learning : prévision et validation temporelle |
-| [**Docker Web Stack**](https://github.com/malikafofana/tp3-docker) | Travail pratique Nginx, PHP-FPM, MariaDB et orchestration Docker Compose |
+| Projet | À quoi ça sert | Comment c’est construit |
+| --- | --- | --- |
+| [**Alzheimer MRI Study**](https://github.com/malikafofana/alzheimer-mri-study) | Étudier comment des modèles peuvent classer des IRM cérébrales selon les catégories du jeu de données, puis comprendre leurs erreurs et leurs limites. Travail académique avec **Klara Mladenovic**, sans validation clinique. | CNN · ResNet50 · Grad-CAM · DCGAN · comparaison des résultats |
+| [**Telco Signal**](https://github.com/malikafofana/telco-signal) | Repérer des clients télécoms susceptibles de devenir inactifs à partir de leur activité passée, pour aider à prioriser leur suivi. Démonstration sur des données synthétiques. | Pipeline d’événements · contrôles qualité · SQL · variables temporelles · Machine Learning · API de scoring |
+| [**Evidence Search**](https://github.com/malikafofana/evidence-search) | Retrouver les passages utiles dans une base documentaire et montrer précisément les sources, pour faciliter la recherche d’informations vérifiables. Corpus de démonstration ; réponses par extraits. | BM25 · TF-IDF · fusion de rangs · citations exactes · évaluation de la recherche |
+| [**Agentic Data Lab**](https://github.com/malikafofana/projet_agentic) | Donner à un assistant des outils pour explorer un fichier CSV, calculer des indicateurs et garder la trace de ses analyses. Prototype incomplet : module auxiliaire manquant. | Serveur MCP · Python · SQLite · outils SQL · statistiques · historique de session |
+| [**Time Series Lab**](https://github.com/malikafofana/timeseriesentrainement1) | S’entraîner à prévoir l’évolution d’une donnée dans le temps, comme la demande d’électricité, et vérifier la qualité des prévisions. Exercices du cours de **Jesus Lopez / LinkedIn Learning**. | Python · Pandas · ARIMA / SARIMA · Prophet · validation temporelle |
+| [**Docker Web Stack**](https://github.com/malikafofana/tp3-docker) | Apprendre à faire fonctionner ensemble un site web, son code PHP et sa base de données dans des conteneurs, en conservant les données après un arrêt. Travail pratique. | Nginx · PHP-FPM · MariaDB · Docker Compose · volume persistant |
 
 Les README présentent le code, les instructions et le périmètre de chaque dépôt. Telco Signal utilise des données synthétiques ; Evidence Search, un corpus de démonstration. Le projet Alzheimer est une étude académique sans validation clinique. Mes projets professionnels sont décrits ici ; leur code reste dans son contexte d’origine.
 
