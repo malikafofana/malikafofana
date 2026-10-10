@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: malikafofana
           outputs: |
-            generated/github-snake.svg?color_snake=#ff4a60&color_dots=#1b1f3c,#2c3e70,#4d7aff,#7c9dff,#ff8a98
+            generated/github-snake.svg?color_snake=#ff4a60&color_dots=#667085,#4d7aff,#83adff,#c2d3ff,#ff8a98
       - name: Store generated image
         uses: actions/upload-artifact@v4
         with:
