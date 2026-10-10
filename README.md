@@ -2,23 +2,23 @@
 
 ![Malika Fofana — AI & Data Engineer · Software Developer](assets/header-motion.gif)
 
-### AI & Data Engineer · Software Developer · Fondatrice de HolyConnect
+### AI & Data Engineer · Software Developer
 
 **Machine Learning · IA générative & NLP · Data Engineering · Web & Mobile**
 
-[Portfolio](https://malikafofana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malika-fofana/) · [HolyConnect](https://holyconnect.app)
+[Portfolio](https://malikafofana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malika-fofana/)
 
 </div>
 
 ## De l’idée à une solution concrète
 
-Je suis **Malika Fofana, Ingénieure IA & Data et développeuse**, passionnée par la manière dont la technologie peut transformer une idée en une solution concrète. Je suis en **Master 1 du Programme Grande École en IA & Data à aivancity**, où je suis major de promotion.
+Je suis **Malika Fofana — AI & Data Engineer et Software Developer**. Je conçois et développe des solutions à la croisée de **l’intelligence artificielle, de l’ingénierie des données et du développement logiciel** : modèles de Machine Learning, applications intégrant des LLM, pipelines de données, APIs et produits web et mobiles.
+
+Je suis en **Master 1 du Programme Grande École en IA & Data à aivancity**, où je suis major de promotion. Mes expériences couvrent les télécommunications, le juridique, la santé, l’immobilier et les outils métier.
 
 Mon parcours s’est construit autour d’une conviction simple : **la technologie prend toute sa valeur lorsqu’elle répond à un véritable besoin**. Mes expériences relient intelligence artificielle, analyse de données, développement logiciel, automatisation, traitement du langage, OCR et blockchain.
 
 J’aime intervenir à chaque étape d’un projet : **comprendre un besoin, explorer les données, concevoir une solution, la développer et la rendre réellement utile**. Cette polyvalence me permet de croiser différentes approches, de travailler sur des problématiques variées et de transformer des idées ambitieuses en produits concrets.
-
-Je suis aussi la **fondatrice et Product Developer de HolyConnect**, une application sociale chrétienne. J’y porte la vision, la conception, le développement web et mobile, l’expérience utilisateur, les tests et le déploiement.
 
 Je souhaite contribuer à **l’innovation en IA et en data**, avec un intérêt particulier pour **la recherche, la santé et les sciences du vivant**. À plus long terme, mon projet est de poursuivre un **doctorat à l’intersection de l’IA, de la data et de la santé**.
 
@@ -40,7 +40,7 @@ Je souhaite contribuer à **l’innovation en IA et en data**, avec un intérêt
 | **IA générative & NLP** | Recherche documentaire, architectures RAG, intégration de LLM et pipelines associant reconnaissance vocale et traitement du langage |
 | **Data Engineering & Analytics** | Collecte par API, automatisation, nettoyage, qualité des données, SQL et tableaux de bord métier |
 | **Software Engineering** | Applications Next.js / React, services REST, interfaces TypeScript et workflows métier |
-| **Web & Mobile** | Développement de HolyConnect avec Next.js, Capacitor et Firebase ; recherche IA et notifications |
+| **Web & Mobile** | Applications Next.js / React, intégration mobile avec Capacitor, services Firebase, fonctionnalités sociales et notifications |
 | **OCR & Blockchain** | Extraction de documents et expériences de vérification de diplômes avec Hyperledger Fabric |
 
 ## Des expériences concrètes, dans plusieurs secteurs
@@ -65,16 +65,6 @@ Ces expériences m’ont permis de relier le développement technique aux besoin
 
 </details>
 
-## HolyConnect — du développement au produit
-
-[**HolyConnect**](https://holyconnect.app) est mon projet entrepreneurial : un réseau de communion fraternelle pour partager des témoignages, des enseignements et des versets.
-
-Mon rôle couvre le **cycle produit complet** : vision, fonctionnalités, UX/UI, développement, tests utilisateurs, déploiement et amélioration continue.
-
-L’application associe **fil d’actualité, publications, messages et stories**, un chatbot IA, un moteur de recherche biblique intelligent et les notifications.
-
-**Stack :** Next.js · TypeScript · Capacitor · Firebase · Firebase Cloud Messaging
-
 ## Mes projets techniques publics
 
 | Projet | Ce qu’il permet d’explorer |
@@ -87,6 +77,17 @@ L’application associe **fil d’actualité, publications, messages et stories*
 | [**Docker Web Stack**](https://github.com/malikafofana/tp3-docker) | Travail pratique Nginx, PHP-FPM, MariaDB et orchestration Docker Compose |
 
 Les README présentent le code, les instructions et le périmètre de chaque dépôt. Telco Signal utilise des données synthétiques ; Evidence Search, un corpus de démonstration. Le projet Alzheimer est une étude académique sans validation clinique. Mes projets professionnels sont décrits ici ; leur code reste dans son contexte d’origine.
+
+<details>
+<summary><strong>Une réalisation web et mobile : HolyConnect</strong></summary>
+
+Je suis la fondatrice et Product Developer de [**HolyConnect**](https://holyconnect.app), une application sociale chrétienne. Ce projet fait partie de mes réalisations en développement logiciel et produit.
+
+Mon travail couvre la conception, l’UX/UI, le développement full-stack, les tests utilisateurs et le déploiement. L’application associe fonctionnalités sociales, chatbot IA, recherche biblique et notifications.
+
+**Stack :** Next.js · TypeScript · Capacitor · Firebase · Firebase Cloud Messaging
+
+</details>
 
 ## Ma stack
 
