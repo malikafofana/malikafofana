@@ -10,8 +10,6 @@
 
 </div>
 
-<img align="right" src="assets/portrait.jpeg" width="155" alt="Portrait of Malika Fofana" />
-
 ## Building across the whole system
 
 I'm **Malika**, a Master's student in AI & Data at **aivancity**, a software developer and the founder of **HolyConnect**. I build web and mobile products, connect data sources, and investigate how AI systems behave beyond a single headline score.
