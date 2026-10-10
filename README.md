@@ -48,6 +48,12 @@ The improved CNN had the best historical macro-F1 (**0.5725**). Adding GAN-gener
 
 </details>
 
+## Contribution activity
+
+An animated view of my real GitHub contributions, refreshed daily.
+
+![Animated contribution calendar for Malika Fofana](assets/github-snake.svg)
+
 ## My toolbox
 
 | Area | Technologies used in my work |
