@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**malikafofana/malikafofana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Malika Fofana — AI & Data Engineer · Software Developer](assets/header-motion.gif)
 
-Here are some ideas to get you started:
+[Portfolio](https://malikafofana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malika-fofana/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Machine Learning · Data Engineering · AI Applications · Full-stack Development**
+
+[Telco Signal](https://github.com/malikafofana/telco-signal) · [Evidence Search](https://github.com/malikafofana/evidence-search) · [Alzheimer MRI](https://github.com/malikafofana/alzheimer-mri-study)
+
+</div>
+
+## Building across the whole system
+
+I'm **Malika**, a Master's student in AI & Data at **aivancity**, a software developer and the founder of **HolyConnect**. I build web and mobile products, connect data sources, and investigate how AI systems behave beyond a single headline score.
+
+My experience includes B2B telecom analytics at Orange Côte d'Ivoire, source-grounded legal AI with JurisIA, clinical data pipelines, and TypeScript products combining recruitment workflows and OCR. My interests span **AI innovation, applied research and reliable product engineering**, with a particular interest in health and life sciences.
+
+**Seeking an AI & Data apprenticeship from October 2026** · Paris / Île-de-France · 3 weeks in company / 1 week at school.
+
+## Engineering portfolio
+
+| Project | What you can inspect | Status |
+|---|---|---|
+| [**Telco Signal**](https://github.com/malikafofana/telco-signal) | Event ingestion, idempotence, quarantine, SQL warehouse, temporal feature windows, ML comparison, drift report and scoring API | Executable local prototype · synthetic data |
+| [**Evidence Search**](https://github.com/malikafofana/evidence-search) | BM25, character TF-IDF, rank fusion, exact citations, abstention and held-out retrieval evaluation | Executable local prototype · authored corpus |
+| [**Alzheimer's MRI study**](https://github.com/malikafofana/alzheimer-mri-study) | CNN, ResNet50, Grad-CAM and DCGAN; historical results and critical evaluation | Academic work with **Klara Mladenovic** · not clinically validated |
+| **HolyConnect** | Full-stack web and mobile product, social features, AI search and notifications | Product development · source private |
+| **JurisIA** | Live retrieval architecture, API integration and source traceability | Professional project · source not redistributed |
+
+Each executable project has its own repository, documentation, reports and test workflow. Use each project README to run its local demonstration. Simulated benchmarks are identified as such; academic and professional projects retain their original context and contributors.
+
+<details>
+<summary><strong>Explore my engineering approach</strong></summary>
+
+- **Start with data contracts:** know what an event, a label and a missing value mean.
+- **Measure against a baseline:** complexity earns its place through evaluation.
+- **Keep time honest:** future information does not belong in past features.
+- **Make evidence inspectable:** reports, source hashes, readable code and failure cases.
+- **Build usable interfaces:** APIs and applications help turn experiments into tools.
+
+</details>
+
+<details>
+<summary><strong>What the MRI project taught us</strong></summary>
+
+The improved CNN had the best historical macro-F1 (**0.5725**). Adding GAN-generated images raised accuracy but reduced macro-F1 and missed every ModerateDemented test example. The historical image-level split does not establish patient independence. Those limitations matter as much as the model architectures.
+
+</details>
+
+## My toolbox
+
+| Area | Technologies used in my work |
+|---|---|
+| Languages | Python · SQL · TypeScript / JavaScript · Bash |
+| AI and experiments | scikit-learn · TensorFlow / Keras · CNNs · Transfer Learning · LLMs · NLP · RAG |
+| Data | APIs · Data quality · SQL pipelines · Power BI · Excel |
+| Product development | Next.js · React · Tailwind CSS · REST APIs · Capacitor · Firebase |
+| Engineering | Git / GitHub · Linux · Evaluation · Inference APIs |
+
+I'm interested in opportunities where I can contribute to **AI systems, data platforms, developer-facing tools and applied R&D** while continuing to deepen my engineering skills.
+
+<div align="center">
+
+**Build something useful. Understand why it works. Be precise about its limits.**
+
+</div>
