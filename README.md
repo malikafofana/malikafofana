@@ -10,18 +10,27 @@
 
 </div>
 
-## À propos de moi
+## De l’idée à une solution concrète
 
-Je suis **Malika Fofana**, développeuse et étudiante en **Master 1 du Programme Grande École en Intelligence Artificielle & Data à aivancity**, où je suis major de promotion.
+Je suis **Malika Fofana, Ingénieure IA & Data et développeuse**, passionnée par la manière dont la technologie peut transformer une idée en une solution concrète. Je suis en **Master 1 du Programme Grande École en IA & Data à aivancity**, où je suis major de promotion.
 
-J’aime construire des solutions qui relient **les données, l’intelligence artificielle et le développement logiciel**. Mon parcours m’a amenée à travailler sur l’analyse de clients télécoms, la recherche juridique augmentée, les données cliniques, la reconnaissance vocale, l’OCR et la vérification de diplômes par blockchain.
+Mon parcours s’est construit autour d’une conviction simple : **la technologie prend toute sa valeur lorsqu’elle répond à un véritable besoin**. Mes expériences relient intelligence artificielle, analyse de données, développement logiciel, automatisation, traitement du langage, OCR et blockchain.
 
-Je suis aussi la **fondatrice de HolyConnect**, une application sociale chrétienne que je développe pour le web et le mobile. Concevoir un produit, développer ses fonctionnalités, intégrer l’IA et travailler sur son expérience utilisateur font partie de ce qui me motive.
+J’aime intervenir à chaque étape d’un projet : **comprendre un besoin, explorer les données, concevoir une solution, la développer et la rendre réellement utile**. Cette polyvalence me permet de croiser différentes approches, de travailler sur des problématiques variées et de transformer des idées ambitieuses en produits concrets.
 
-Mon ambition est de contribuer à **l’innovation en IA et en data**, avec un intérêt particulier pour **la recherche, la santé et les sciences du vivant**. À plus long terme, je souhaite poursuivre un **doctorat à l’intersection de l’IA, de la data et de la santé**.
+Je suis aussi la **fondatrice et Product Developer de HolyConnect**, une application sociale chrétienne. J’y porte la vision, la conception, le développement web et mobile, l’expérience utilisateur, les tests et le déploiement.
+
+Je souhaite contribuer à **l’innovation en IA et en data**, avec un intérêt particulier pour **la recherche, la santé et les sciences du vivant**. À plus long terme, mon projet est de poursuivre un **doctorat à l’intersection de l’IA, de la data et de la santé**.
 
 > **Recherche d’alternance en IA & Data — octobre 2026**  
-> Paris / Île-de-France · 3 semaines en entreprise / 1 semaine à l’école
+> Paris / Île-de-France · 3 semaines en entreprise / 1 semaine à l’école  
+> Également ouverte aux collaborations autour de projets IA, data et développement.
+
+## Ma manière de travailler
+
+| Curiosité | Rigueur | Créativité | Impact |
+| --- | --- | --- | --- |
+| Comprendre en profondeur avant de construire | Structurer les données et les problématiques complexes | Explorer différentes approches | Répondre à des besoins réels |
 
 ## Ce que je développe
 
@@ -38,18 +47,19 @@ Mon ambition est de contribuer à **l’innovation en IA et en data**, avec un i
 
 | Expérience | Sujets sur lesquels j’ai travaillé |
 | --- | --- |
-| **Orange Côte d’Ivoire — B2B** | Analyse de l’activité et de l’inactivité des clients, indicateurs commerciaux et financiers, tableaux de bord et développement d’outils métier |
+| **Orange Côte d’Ivoire — B2B** | Analyse de l’activité et de l’inactivité des clients, dashboards et KPIs, scoring IA ; interfaces Next.js / TypeScript, filtres dynamiques, virtualisation des listes et import Excel avec SheetJS |
 | **Craft AI — JurisIA** | Assistant juridique, architecture RAG avec récupération en direct via Légifrance / PISTE et traçabilité des sources |
 | **Veltis** | Plateforme de données cliniques, collecte automatisée, intégration de sources, qualité des données et Power Pages |
 | **Kaydan** | Vérification de diplômes avec Hyperledger Fabric, workflows de recrutement en Node.js / TypeScript / React et pipeline OCR de documents |
 | **Kaufman & Broad** | Analyse de données territoriales et travaux autour d’un assistant interne NLP / LLM |
-| **Groupe Image Concept** | Pipeline associant reconnaissance vocale et modèles de langage |
+| **Groupe Image et Concept** | Pipeline associant reconnaissance vocale et modèles de langage |
 
 <details>
 <summary><strong>D’autres expériences qui ont construit mon parcours</strong></summary>
 
 - **Puissance de Femmes** : collecte et scraping de données en Python.
 - **Ba&sh** : analyse de retours clients avec Excel et Power BI.
+- **Sursaut Technologie** : conception, développement et déploiement d’un site Next.js pour un think tank consacré à l’innovation technologique en Afrique.
 
 Ces expériences m’ont permis de relier le développement technique aux besoins métier, dans des environnements et des secteurs différents.
 
@@ -59,7 +69,9 @@ Ces expériences m’ont permis de relier le développement technique aux besoin
 
 [**HolyConnect**](https://holyconnect.app) est mon projet entrepreneurial : un réseau de communion fraternelle pour partager des témoignages, des enseignements et des versets.
 
-J’y développe une application **web et mobile**, des fonctionnalités sociales, un chatbot, la recherche biblique assistée par IA et les notifications.
+Mon rôle couvre le **cycle produit complet** : vision, fonctionnalités, UX/UI, développement, tests utilisateurs, déploiement et amélioration continue.
+
+L’application associe **fil d’actualité, publications, messages et stories**, un chatbot IA, un moteur de recherche biblique intelligent et les notifications.
 
 **Stack :** Next.js · TypeScript · Capacitor · Firebase · Firebase Cloud Messaging
 
@@ -97,6 +109,16 @@ Les README présentent le code, les instructions et le périmètre de chaque dé
 
 </details>
 
+<details>
+<summary><strong>Formation, curiosité scientifique et numérique responsable</strong></summary>
+
+- **IBM** : Generative AI in Action et Fundamentals of Sustainability.
+- **Inria / FUN** : Impacts environnementaux du numérique.
+- **ONU / UNITAR / PNUE** : REDD+.
+- **NASA & AIA** : participation à une initiative de recherche d’astéroïdes par analyse de données astronomiques.
+
+</details>
+
 ## Mon activité GitHub
 
 Une animation de mes contributions réelles, actualisée quotidiennement.
@@ -105,7 +127,7 @@ Une animation de mes contributions réelles, actualisée quotidiennement.
 
 <div align="center">
 
-**Curieuse de comprendre. Motivée pour construire.**
+**Comprendre l’esprit, révéler le potentiel, bâtir un avenir meilleur.**
 
 [Découvrir mon portfolio](https://malikafofana.github.io/portfolio/) · [Échanger sur LinkedIn](https://www.linkedin.com/in/malika-fofana/)
 
