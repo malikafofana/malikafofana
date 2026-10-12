@@ -6,7 +6,7 @@
 
 **Machine Learning · Deep Learning · Fine tuning · Data Engineering · Software Development**
 
-[Explore my portfolio](https://malikafofana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malika-fofana/)
+[Portfolio](https://malikafofana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malika-fofana/)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 I'm **Malika Fofana, an AI & Data Engineer and Software Developer**. My work combines **designing, training and evaluating AI models**, engineering data pipelines, and developing applications.
 
-I work with **Machine Learning, Deep Learning, transfer learning and fine tuning**, as well as LLMs, NLP and RAG architectures. I prepare data, train and adapt models, investigate their results, and integrate them into practical solutions. I also build **data pipelines, APIs, and web and mobile applications**.
+I work with **Machine Learning, Deep Learning, transfer learning and fine tuning**, as well as LLMs, NLP and RAG architectures. I prepare data, train and adapt models, study their results, and integrate them into practical solutions. I also build **data pipelines, APIs, and web and mobile applications**.
 
-I'm in the **first year of the AI & Data Master's cycle of the Programme Grande École at aivancity**, where I rank first in my class. My experience spans telecommunications, legal technology, clinical data, real estate and business tools.
+I'm in the **first year of the AI & Data Master's cycle of the Programme Grande École at aivancity**, where I rank first in my class. My experience covers telecommunications, legal technology, clinical data, real estate and business tools.
 
 I believe technology creates value when it addresses a real need. My projects connect AI, data analysis, software development, automation, language processing, OCR and blockchain.
 
@@ -40,7 +40,7 @@ I want to contribute to **innovation in AI and data**, with a particular interes
 | --- | --- |
 | **Machine Learning & Deep Learning** | Data preparation, model design and training, classification, CNNs, transfer learning, fine tuning and performance evaluation |
 | **Generative AI & NLP** | Document retrieval, RAG architectures, LLM integration and pipelines combining speech recognition with language processing |
-| **Data Engineering & Analytics** | API ingestion, automation, cleaning, data quality, SQL and business dashboards |
+| **Data Engineering & Analytics** | Data collection through APIs, automation, cleaning, data quality, SQL and business dashboards |
 | **Software Engineering** | Next.js / React applications, REST services, TypeScript interfaces and business workflows |
 | **Product Management** | Understanding user needs, product vision, feature prioritisation, UX/UI, user testing and continuous improvement |
 | **Web & Mobile** | Next.js / React applications, Capacitor mobile integration, Firebase services, social features and notifications |
@@ -66,7 +66,7 @@ I want to contribute to **innovation in AI and data**, with a particular interes
 
 **Sursaut Technologie:** designing, developing and deploying a Next.js website for a think tank focused on technological innovation in Africa.
 
-These experiences helped me connect technical implementation with business needs across different sectors.
+These experiences helped me connect technical work with business needs across different sectors.
 
 </details>
 
@@ -82,55 +82,14 @@ The application brings together a social feed, posts, messages and stories, alon
 
 ## Public engineering projects
 
-Each project starts with its purpose, followed by the implementation and its connection to my experience.
-
-### [Alzheimer MRI Study](https://github.com/malikafofana/alzheimer-mri-study)
-
-**Purpose:** investigate how models classify brain MRI images into dataset categories, then examine their errors and limitations.
-
-**Engineering:** CNN · ResNet50 · Grad CAM · DCGAN · comparison of experimental results.
-
-**Connection to my experience:** this repository documents my academic Deep Learning project at aivancity, completed with **Klara Mladenovic**. It reflects my interest in AI and the life sciences. Academic study, without clinical validation.
-
-### [Telco Signal](https://github.com/malikafofana/telco-signal)
-
-**Purpose:** identify telecom customers at risk of becoming inactive from their past activity, to help prioritise follow-up.
-
-**Engineering:** event ingestion · data quality checks · SQL warehouse · temporal features · Machine Learning · scoring API.
-
-**Connection to my experience:** an independent personal prototype inspired by my work on B2B customer activity and inactivity at Orange Côte d'Ivoire. It uses **synthetic data**, independent of company data.
-
-### [Evidence Search](https://github.com/malikafofana/evidence-search)
-
-**Purpose:** find relevant passages in a document collection and show their exact sources, making information easier to verify.
-
-**Engineering:** BM25 · TF IDF · rank fusion · exact citations · retrieval evaluation.
-
-**Connection to my experience:** an independent prototype exploring the retrieval and source traceability challenges I encountered with JurisIA at Craft AI. It uses a separate demonstration corpus and returns extracts; it does not reproduce the legal assistant or its generated answers.
-
-### [Agentic Data Lab](https://github.com/malikafofana/projet_agentic)
-
-**Purpose:** give an assistant tools to explore a CSV file, calculate indicators and keep a record of its analysis.
-
-**Engineering:** MCP server · Python · SQLite · SQL tools · statistics · session history.
-
-**Connection to my experience:** a separate exploration of assistants and analysis tools, related to my interests and experience with JurisIA and the internal chatbot at Kaufman & Broad. **Incomplete prototype:** a supporting module is missing.
-
-### [Time Series Lab](https://github.com/malikafofana/timeseriesentrainement1)
-
-**Purpose:** practise forecasting how a quantity changes over time, such as electricity demand, and assess forecast quality.
-
-**Engineering:** Python · Pandas · ARIMA / SARIMA · Prophet · temporal validation.
-
-**Connection to my experience:** exercises supporting my Machine Learning and data analysis studies. Based on the course by **Jesus Lopez / LinkedIn Learning**, rather than a company project.
-
-### [Docker Web Stack](https://github.com/malikafofana/tp3-docker)
-
-**Purpose:** run a website, its PHP service and its database together in containers, while preserving data between restarts.
-
-**Engineering:** Nginx · PHP FPM · MariaDB · Docker Compose · persistent storage.
-
-**Connection to my experience:** an academic practical exercise extending my software development skills into containerisation and service orchestration.
+| Project | What it is for | How it is built |
+| --- | --- | --- |
+| [Alzheimer MRI Study](https://github.com/malikafofana/alzheimer-mri-study) | investigate how models classify brain MRI images into dataset categories, then examine their errors and limitations.<br><br>**Connection to my experience:** this repository documents my academic Deep Learning project at aivancity, completed with **Klara Mladenovic**. It reflects my interest in AI and the life sciences. Academic study, without clinical validation. | CNN · ResNet50 · Grad CAM · DCGAN · comparison of experimental results. |
+| [Telco Signal](https://github.com/malikafofana/telco-signal) | identify telecom customers at risk of becoming inactive from their past activity, to help prioritise follow-up.<br><br>**Connection to my experience:** an independent personal prototype inspired by my work on B2B customer activity and inactivity at Orange Côte d'Ivoire. It uses **synthetic data**, independent of company data. | event ingestion · data quality checks · SQL warehouse · temporal features · Machine Learning · scoring API. |
+| [Evidence Search](https://github.com/malikafofana/evidence-search) | find relevant passages in a document collection and show their exact sources, making information easier to verify.<br><br>**Connection to my experience:** an independent prototype exploring the retrieval and source traceability challenges I encountered with JurisIA at Craft AI. It uses a separate demonstration corpus and returns extracts; it does not reproduce the legal assistant or its generated answers. | BM25 · TF IDF · rank fusion · exact citations · retrieval evaluation. |
+| [Agentic Data Lab](https://github.com/malikafofana/projet_agentic) | give an assistant tools to explore a CSV file, calculate indicators and keep a record of its analysis.<br><br>**Connection to my experience:** a separate exploration of assistants and analysis tools, related to my interests and experience with JurisIA and the internal chatbot at Kaufman & Broad. **Incomplete prototype:** a supporting module is missing. | MCP server · Python · SQLite · SQL tools · statistics · session history. |
+| [Time Series Lab](https://github.com/malikafofana/timeseriesentrainement1) | practise forecasting how a quantity changes over time, such as electricity demand, and assess forecast quality.<br><br>**Connection to my experience:** exercises supporting my Machine Learning and data analysis studies. Based on the course by **Jesus Lopez / LinkedIn Learning**, rather than a company project. | Python · Pandas · ARIMA / SARIMA · Prophet · temporal validation. |
+| [Docker Web Stack](https://github.com/malikafofana/tp3-docker) | run a website, its PHP service and its database together in containers, while preserving data between restarts.<br><br>**Connection to my experience:** an academic practical exercise extending my software development skills into containerisation and service orchestration. | Nginx · PHP FPM · MariaDB · Docker Compose · persistent storage. |
 
 Each repository explains its code, setup and scope. Professional projects are described here; their source code remains in its original context.
 
@@ -179,8 +138,8 @@ An animated view of my real contributions, refreshed daily.
 
 <div align="center">
 
-**The next connection in my brain is our collaboration.**
+**Understand the mind, reveal potential, build a better future.**
 
-[Take a journey through my portfolio](https://malikafofana.github.io/portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/malika-fofana/)
+[Discover my portfolio](https://malikafofana.github.io/portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/malika-fofana/)
 
 </div>
