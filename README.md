@@ -6,145 +6,181 @@
 
 **Machine Learning · Deep Learning · Fine tuning · Data Engineering · Software Development**
 
-[Portfolio](https://malikafofana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malika-fofana/)
+[Explore my portfolio](https://malikafofana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malika-fofana/)
 
 </div>
 
-## De l’idée à une solution concrète
+## From an idea to a working solution
 
-Je suis **Malika Fofana, AI & Data Engineer et Software Developer**. Mon travail associe **la conception, l’entraînement et l’évaluation de modèles d’IA**, l’ingénierie des données et le développement d’applications.
+I'm **Malika Fofana, an AI & Data Engineer and Software Developer**. My work combines **designing, training and evaluating AI models**, engineering data pipelines, and developing applications.
 
-Je travaille avec le **Machine Learning, le Deep Learning, le transfert d’apprentissage et le fine tuning**, ainsi qu’avec les LLM, le NLP et les architectures RAG. Je prépare les données, entraîne et adapte les modèles, analyse leurs résultats et les intègre dans des solutions concrètes. Je développe aussi des **pipelines de données, des APIs et des applications web et mobiles**.
+I work with **Machine Learning, Deep Learning, transfer learning and fine tuning**, as well as LLMs, NLP and RAG architectures. I prepare data, train and adapt models, investigate their results, and integrate them into practical solutions. I also build **data pipelines, APIs, and web and mobile applications**.
 
-Je suis en **Master 1 du Programme Grande École en IA & Data à aivancity**, où je suis major de promotion. Mes expériences couvrent les télécommunications, le juridique, la santé, l’immobilier et les outils métier.
+I'm in the **first year of the AI & Data Master's cycle of the Programme Grande École at aivancity**, where I rank first in my class. My experience spans telecommunications, legal technology, clinical data, real estate and business tools.
 
-Mon parcours s’est construit autour d’une conviction simple : **la technologie prend toute sa valeur lorsqu’elle répond à un véritable besoin**. Mes expériences relient intelligence artificielle, analyse de données, développement logiciel, automatisation, traitement du langage, OCR et blockchain.
+I believe technology creates value when it addresses a real need. My projects connect AI, data analysis, software development, automation, language processing, OCR and blockchain.
 
-J’aime intervenir à chaque étape d’un projet : **comprendre un besoin, explorer les données, concevoir une solution, la développer et la rendre réellement utile**. Cette polyvalence me permet de croiser différentes approches, de travailler sur des problématiques variées et de transformer des idées ambitieuses en produits concrets.
+I enjoy working through the entire process: **understanding a need, exploring the data, designing a solution, building it and making it useful**. This range allows me to combine approaches and turn ambitious ideas into concrete products.
 
-Je souhaite contribuer à **l’innovation en IA et en data**, avec un intérêt particulier pour **la recherche et les sciences du vivant**. À plus long terme, mon projet est de poursuivre un **doctorat à l’intersection de l’IA, de la data et des sciences du vivant**.
+I want to contribute to **innovation in AI and data**, with a particular interest in **research and the life sciences**. In the longer term, I aim to pursue a **PhD at the intersection of AI, data and the life sciences**.
 
-> **Recherche d’alternance en IA & Data, octobre 2026**  
-> Paris / Île de France · 3 semaines en entreprise / 1 semaine à l’école  
-> Également ouverte aux collaborations autour de projets IA, data et développement.
+> **Seeking an AI & Data apprenticeship starting in October 2026**  
+> Paris / Île de France · 3 weeks in the company / 1 week at school  
+> Also open to collaboration on AI, data and software projects.
 
-## Ma manière de travailler
+## How I work
 
-| Curiosité | Rigueur | Créativité | Impact |
+| Curiosity | Rigour | Creativity | Impact |
 | --- | --- | --- | --- |
-| Comprendre en profondeur avant de construire | Structurer les données et les problématiques complexes | Explorer différentes approches | Répondre à des besoins réels |
+| Understand deeply before building | Structure data and complex problems | Explore different approaches | Solve real needs |
 
-## Ce que je développe
+## What I build
 
-| Domaine | Mon travail |
+| Area | My work |
 | --- | --- |
-| **Machine Learning & Deep Learning** | Préparation des données, conception et entraînement de modèles, classification, CNN, transfert d’apprentissage, fine tuning et évaluation des performances |
-| **IA générative & NLP** | Recherche documentaire, architectures RAG, intégration de LLM et pipelines associant reconnaissance vocale et traitement du langage |
-| **Data Engineering & Analytics** | Collecte par API, automatisation, nettoyage, qualité des données, SQL et tableaux de bord métier |
-| **Software Engineering** | Applications Next.js / React, services REST, interfaces TypeScript et workflows métier |
-| **Product Management** | Définition du besoin, vision produit, priorisation des fonctionnalités, UX/UI, tests utilisateurs et amélioration continue |
-| **Web & Mobile** | Applications Next.js / React, intégration mobile avec Capacitor, services Firebase, fonctionnalités sociales et notifications |
-| **OCR & Blockchain** | Extraction de documents et expériences de vérification de diplômes avec Hyperledger Fabric |
+| **Machine Learning & Deep Learning** | Data preparation, model design and training, classification, CNNs, transfer learning, fine tuning and performance evaluation |
+| **Generative AI & NLP** | Document retrieval, RAG architectures, LLM integration and pipelines combining speech recognition with language processing |
+| **Data Engineering & Analytics** | API ingestion, automation, cleaning, data quality, SQL and business dashboards |
+| **Software Engineering** | Next.js / React applications, REST services, TypeScript interfaces and business workflows |
+| **Product Management** | Understanding user needs, product vision, feature prioritisation, UX/UI, user testing and continuous improvement |
+| **Web & Mobile** | Next.js / React applications, Capacitor mobile integration, Firebase services, social features and notifications |
+| **OCR & Blockchain** | Document extraction and diploma verification experiments with Hyperledger Fabric |
 
-## Des expériences concrètes, dans plusieurs secteurs
+## Experience across industries
 
-| Expérience | Sujets sur lesquels j’ai travaillé |
+| Experience | What I worked on |
 | --- | --- |
-| **Orange Côte d’Ivoire, B2B** | Analyse de l’activité et de l’inactivité des clients, dashboards et KPIs, scoring IA ; interfaces Next.js / TypeScript, filtres dynamiques, virtualisation des listes et import Excel avec SheetJS |
-| **Craft AI, JurisIA** | Assistant juridique, architecture RAG avec récupération en direct via Légifrance / PISTE et traçabilité des sources |
-| **Veltis** | Plateforme de données cliniques, collecte automatisée, intégration de sources, qualité des données et Power Pages |
-| **Kaydan** | Vérification de diplômes avec Hyperledger Fabric, workflows de recrutement en Node.js / TypeScript / React et pipeline OCR de documents |
-| **Kaufman & Broad** | Analyse de données territoriales et travaux autour d’un assistant interne NLP / LLM |
-| **Groupe Image et Concept** | Pipeline associant reconnaissance vocale et modèles de langage |
+| **Orange Côte d'Ivoire, B2B** | Customer activity and inactivity analysis, dashboards, KPIs and AI scoring; Next.js / TypeScript interfaces, dynamic filters, virtualised lists and Excel imports with SheetJS |
+| **Craft AI, JurisIA** | A legal assistant, RAG architecture with live retrieval through Légifrance / PISTE, and source traceability |
+| **Veltis** | A clinical data platform, automated collection, source integration, data quality and Power Pages |
+| **Kaydan** | Diploma verification with Hyperledger Fabric, recruitment workflows in Node.js / TypeScript / React, and document OCR |
+| **Kaufman & Broad** | Territorial data analysis and work on an internal NLP / LLM assistant |
+| **Groupe Image et Concept** | A pipeline combining speech recognition and language models |
 
 <details>
-<summary><strong>D’autres expériences qui ont construit mon parcours</strong></summary>
+<summary><strong>Other experiences that shaped my approach</strong></summary>
 
-**Puissance de Femmes** : collecte et scraping de données en Python.
+**Puissance de Femmes:** data collection and web scraping with Python.
 
-**Ba&sh** : analyse de retours clients avec Excel et Power BI.
+**Ba&sh:** customer feedback analysis with Excel and Power BI.
 
-**Sursaut Technologie** : conception, développement et déploiement d’un site Next.js pour un think tank consacré à l’innovation technologique en Afrique.
+**Sursaut Technologie:** designing, developing and deploying a Next.js website for a think tank focused on technological innovation in Africa.
 
-
-Ces expériences m’ont permis de relier le développement technique aux besoins métier, dans des environnements et des secteurs différents.
+These experiences helped me connect technical implementation with business needs across different sectors.
 
 </details>
 
-## HolyConnect, une réalisation entrepreneuriale
+## HolyConnect, an entrepreneurial project
 
-Je suis la **fondatrice, Product Manager et développeuse full stack** de [**HolyConnect**](https://holyconnect.app), une application sociale chrétienne dédiée au partage et à la communion autour de la foi.
+I'm the **founder, Product Manager and full stack developer** of [**HolyConnect**](https://holyconnect.app), a Christian social application for sharing and connecting around faith.
 
-Je porte le projet **de l’idée au produit** : définition de la vision et des besoins, priorisation des fonctionnalités, conception de l’expérience utilisateur, développement web et mobile, intégration de l’IA, tests utilisateurs, déploiement et amélioration continue.
+I lead the project **from idea to product**: vision and requirements, feature prioritisation, user experience, web and mobile development, AI integration, user testing, deployment and continuous improvement.
 
-L’application réunit un fil d’actualité, des publications, des messages et des stories, ainsi qu’un chatbot IA, un moteur de recherche biblique intelligent et des notifications.
+The application brings together a social feed, posts, messages and stories, along with an AI chatbot, intelligent Bible search and notifications.
 
-**Technologies :** Next.js · TypeScript · Capacitor · Firebase · Firebase Cloud Messaging
+**Technologies:** Next.js · TypeScript · Capacitor · Firebase · Firebase Cloud Messaging
 
-## Mes projets techniques publics
+## Public engineering projects
 
-| Projet | À quoi ça sert | Comment c’est construit |
-| --- | --- | --- |
-| [**Alzheimer MRI Study**](https://github.com/malikafofana/alzheimer-mri-study) | Étudier comment des modèles peuvent classer des IRM cérébrales selon les catégories du jeu de données, puis comprendre leurs erreurs et leurs limites. Travail académique avec **Klara Mladenovic**, sans validation clinique.<br><br>**Lien avec mon parcours :** Ce dépôt documente mon projet académique de Deep Learning sur Alzheimer, réalisé à aivancity. Il illustre mon intérêt pour l’IA appliquée aux sciences du vivant. | CNN · ResNet50 · Grad CAM · DCGAN · comparaison des résultats |
-| [**Telco Signal**](https://github.com/malikafofana/telco-signal) | Repérer des clients télécoms susceptibles de devenir inactifs à partir de leur activité passée, pour aider à prioriser leur suivi. Démonstration sur des données synthétiques.<br><br>**Lien avec mon parcours :** Prototype personnel inspiré de mon travail sur l’activité et l’inactivité des clients B2B chez Orange Côte d’Ivoire. Il utilise des données synthétiques, indépendantes des données de l’entreprise. | Pipeline d’événements · contrôles qualité · SQL · variables temporelles · Machine Learning · API de scoring |
-| [**Evidence Search**](https://github.com/malikafofana/evidence-search) | Retrouver les passages utiles dans une base documentaire et montrer précisément les sources, pour faciliter la recherche d’informations vérifiables. Corpus de démonstration ; réponses par extraits.<br><br>**Lien avec mon parcours :** Ce prototype reprend la problématique de recherche documentaire et de traçabilité des sources rencontrée avec JurisIA chez Craft AI. Il explore la recherche et les citations sur un corpus distinct, sans reproduire l’assistant juridique ni sa génération de réponses. | BM25 · TF IDF · fusion de rangs · citations exactes · évaluation de la recherche |
-| [**Agentic Data Lab**](https://github.com/malikafofana/projet_agentic) | Donner à un assistant des outils pour explorer un fichier CSV, calculer des indicateurs et garder la trace de ses analyses. Prototype incomplet : module auxiliaire manquant.<br><br>**Lien avec mon parcours :** Ce travail prolonge mon intérêt pour les assistants et les outils d’analyse, présents dans mes expériences avec JurisIA et le chatbot interne chez Kaufman & Broad. Il s’agit d’un prototype distinct. | Serveur MCP · Python · SQLite · outils SQL · statistiques · historique de session |
-| [**Time Series Lab**](https://github.com/malikafofana/timeseriesentrainement1) | S’entraîner à prévoir l’évolution d’une donnée dans le temps, comme la demande d’électricité, et vérifier la qualité des prévisions. Exercices du cours de **Jesus Lopez / LinkedIn Learning**.<br><br>**Lien avec mon parcours :** Ces exercices complètent ma formation en Machine Learning et en analyse de données, notamment pour comprendre l’évolution d’indicateurs dans le temps. Ce sont des supports de cours, plutôt qu’une réalisation en entreprise. | Python · Pandas · ARIMA / SARIMA · Prophet · validation temporelle |
-| [**Docker Web Stack**](https://github.com/malikafofana/tp3-docker) | Apprendre à faire fonctionner ensemble un site web, son code PHP et sa base de données dans des conteneurs, en conservant les données après un arrêt. Travail pratique.<br><br>**Lien avec mon parcours :** Ce travail pratique complète mes compétences en développement logiciel par la conteneurisation et l’orchestration des services. Il relève de ma formation technique. | Nginx · PHP FPM · MariaDB · Docker Compose · volume persistant |
+Each project starts with its purpose, followed by the implementation and its connection to my experience.
 
-Les README présentent le code, les instructions et le périmètre de chaque dépôt. Telco Signal utilise des données synthétiques ; Evidence Search, un corpus de démonstration. Le projet Alzheimer est une étude académique sans validation clinique. Mes projets professionnels sont décrits ici ; leur code reste dans son contexte d’origine.
+### [Alzheimer MRI Study](https://github.com/malikafofana/alzheimer-mri-study)
 
+**Purpose:** investigate how models classify brain MRI images into dataset categories, then examine their errors and limitations.
 
+**Engineering:** CNN · ResNet50 · Grad CAM · DCGAN · comparison of experimental results.
 
-## Ma stack
+**Connection to my experience:** this repository documents my academic Deep Learning project at aivancity, completed with **Klara Mladenovic**. It reflects my interest in AI and the life sciences. Academic study, without clinical validation.
 
-| | Technologies et outils |
+### [Telco Signal](https://github.com/malikafofana/telco-signal)
+
+**Purpose:** identify telecom customers at risk of becoming inactive from their past activity, to help prioritise follow-up.
+
+**Engineering:** event ingestion · data quality checks · SQL warehouse · temporal features · Machine Learning · scoring API.
+
+**Connection to my experience:** an independent personal prototype inspired by my work on B2B customer activity and inactivity at Orange Côte d'Ivoire. It uses **synthetic data**, independent of company data.
+
+### [Evidence Search](https://github.com/malikafofana/evidence-search)
+
+**Purpose:** find relevant passages in a document collection and show their exact sources, making information easier to verify.
+
+**Engineering:** BM25 · TF IDF · rank fusion · exact citations · retrieval evaluation.
+
+**Connection to my experience:** an independent prototype exploring the retrieval and source traceability challenges I encountered with JurisIA at Craft AI. It uses a separate demonstration corpus and returns extracts; it does not reproduce the legal assistant or its generated answers.
+
+### [Agentic Data Lab](https://github.com/malikafofana/projet_agentic)
+
+**Purpose:** give an assistant tools to explore a CSV file, calculate indicators and keep a record of its analysis.
+
+**Engineering:** MCP server · Python · SQLite · SQL tools · statistics · session history.
+
+**Connection to my experience:** a separate exploration of assistants and analysis tools, related to my interests and experience with JurisIA and the internal chatbot at Kaufman & Broad. **Incomplete prototype:** a supporting module is missing.
+
+### [Time Series Lab](https://github.com/malikafofana/timeseriesentrainement1)
+
+**Purpose:** practise forecasting how a quantity changes over time, such as electricity demand, and assess forecast quality.
+
+**Engineering:** Python · Pandas · ARIMA / SARIMA · Prophet · temporal validation.
+
+**Connection to my experience:** exercises supporting my Machine Learning and data analysis studies. Based on the course by **Jesus Lopez / LinkedIn Learning**, rather than a company project.
+
+### [Docker Web Stack](https://github.com/malikafofana/tp3-docker)
+
+**Purpose:** run a website, its PHP service and its database together in containers, while preserving data between restarts.
+
+**Engineering:** Nginx · PHP FPM · MariaDB · Docker Compose · persistent storage.
+
+**Connection to my experience:** an academic practical exercise extending my software development skills into containerisation and service orchestration.
+
+Each repository explains its code, setup and scope. Professional projects are described here; their source code remains in its original context.
+
+## My toolbox
+
+| Area | Technologies and tools |
 | --- | --- |
-| **Langages** | Python · SQL · TypeScript · JavaScript · Bash |
-| **IA & ML** | scikit learn · TensorFlow / Keras · CNN · Transfer Learning · Fine tuning · LLM · NLP · RAG · Speech to Text |
-| **Données & BI** | Pandas · APIs · SQL · Qualité des données · Power BI · Excel · SheetJS |
-| **Développement** | Next.js · React · Node.js · Tailwind CSS · REST APIs · Zustand |
+| **Languages** | Python · SQL · TypeScript · JavaScript · Bash |
+| **AI & ML** | scikit-learn · TensorFlow / Keras · CNNs · Transfer Learning · Fine tuning · LLMs · NLP · RAG · Speech recognition |
+| **Data & BI** | Pandas · APIs · SQL · Data quality · Power BI · Excel · SheetJS |
+| **Development** | Next.js · React · Node.js · Tailwind CSS · REST APIs · Zustand |
 | **Mobile & services** | Capacitor · Firebase · Firebase Cloud Messaging |
-| **Infrastructure & outils** | Docker · Docker Compose · Git / GitHub · Linux · Hyperledger Fabric |
+| **Infrastructure & tools** | Docker · Docker Compose · Git / GitHub · Linux · Hyperledger Fabric |
 
 <details>
-<summary><strong>Ce qui m’intéresse pour la suite</strong></summary>
+<summary><strong>What I want to explore next</strong></summary>
 
-Construire des produits IA utiles, depuis la donnée jusqu’à l’application.
+Building useful AI products, from data to application.
 
-Développer des pipelines et des plateformes de données pour des besoins concrets.
+Developing pipelines and data platforms around concrete needs.
 
-Approfondir le Machine Learning, le Deep Learning et l’évaluation des systèmes d’IA.
+Deepening my skills in Machine Learning, Deep Learning and AI evaluation.
 
-Participer à des projets de R&D associant IA, data et sciences du vivant.
-
+Contributing to R&D that brings together AI, data and the life sciences.
 
 </details>
 
 <details>
-<summary><strong>Formation, curiosité scientifique et numérique responsable</strong></summary>
+<summary><strong>Learning, scientific curiosity and responsible technology</strong></summary>
 
-**IBM** : Generative AI in Action et Fundamentals of Sustainability.
+**IBM:** Generative AI in Action and Fundamentals of Sustainability.
 
-**Inria / FUN** : Impacts environnementaux du numérique.
+**Inria / FUN:** environmental impacts of digital technology.
 
-**ONU / UNITAR / PNUE** : REDD+.
+**UN / UNITAR / UNEP:** REDD+.
 
-**NASA & AIA** : participation à une initiative de recherche d’astéroïdes par analyse de données astronomiques.
-
+**NASA & AIA:** participation in an asteroid research initiative through astronomical data analysis.
 
 </details>
 
-## Mon activité GitHub
+## GitHub activity
 
-Une animation de mes contributions réelles, actualisée quotidiennement.
+An animated view of my real contributions, refreshed daily.
 
-![Calendrier animé des contributions de Malika Fofana](assets/github-snake.svg)
+![Animated contribution calendar for Malika Fofana](assets/github-snake.svg)
 
 <div align="center">
 
-**Comprendre l’esprit, révéler le potentiel, bâtir un avenir meilleur.**
+**The next connection in my brain is our collaboration.**
 
-[Découvrir mon portfolio](https://malikafofana.github.io/portfolio/) · [Échanger sur LinkedIn](https://www.linkedin.com/in/malika-fofana/)
+[Take a journey through my portfolio](https://malikafofana.github.io/portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/malika-fofana/)
 
 </div>
